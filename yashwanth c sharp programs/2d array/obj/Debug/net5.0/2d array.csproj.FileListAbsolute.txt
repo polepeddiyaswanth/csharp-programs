@@ -1,0 +1,16 @@
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\bin\Debug\net5.0\2d array.exe
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\bin\Debug\net5.0\2d array.deps.json
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\bin\Debug\net5.0\2d array.runtimeconfig.json
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\bin\Debug\net5.0\2d array.runtimeconfig.dev.json
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\bin\Debug\net5.0\2d array.dll
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\bin\Debug\net5.0\ref\2d array.dll
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\bin\Debug\net5.0\2d array.pdb
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\2d array.csproj.AssemblyReference.cache
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\2d array.GeneratedMSBuildEditorConfig.editorconfig
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\2d array.AssemblyInfoInputs.cache
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\2d array.AssemblyInfo.cs
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\2d array.csproj.CoreCompileInputs.cache
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\2d array.dll
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\ref\2d array.dll
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\2d array.pdb
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\2d array\obj\Debug\net5.0\2d array.genruntimeconfig.cache
