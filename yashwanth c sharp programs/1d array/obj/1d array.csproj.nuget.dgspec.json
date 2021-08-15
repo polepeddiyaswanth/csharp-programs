@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\yashwanth\\yashwanth c sharp programs\\1d array\\1d array.csproj": {}
+    "E:\\yashwanth\\yashwanth-csharp-programs\\yashwanth c sharp programs\\1d array\\1d array.csproj": {}
   },
   "projects": {
-    "E:\\yashwanth\\yashwanth c sharp programs\\1d array\\1d array.csproj": {
+    "E:\\yashwanth\\yashwanth-csharp-programs\\yashwanth c sharp programs\\1d array\\1d array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\yashwanth\\yashwanth c sharp programs\\1d array\\1d array.csproj",
+        "projectUniqueName": "E:\\yashwanth\\yashwanth-csharp-programs\\yashwanth c sharp programs\\1d array\\1d array.csproj",
         "projectName": "1d array",
-        "projectPath": "E:\\yashwanth\\yashwanth c sharp programs\\1d array\\1d array.csproj",
+        "projectPath": "E:\\yashwanth\\yashwanth-csharp-programs\\yashwanth c sharp programs\\1d array\\1d array.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "E:\\yashwanth\\yashwanth c sharp programs\\1d array\\obj\\",
+        "outputPath": "E:\\yashwanth\\yashwanth-csharp-programs\\yashwanth c sharp programs\\1d array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
