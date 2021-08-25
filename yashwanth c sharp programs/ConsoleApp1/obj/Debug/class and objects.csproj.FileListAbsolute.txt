@@ -1,0 +1,7 @@
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\ConsoleApp1\obj\Debug\class and objects.csproj.AssemblyReference.cache
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\ConsoleApp1\obj\Debug\class and objects.csproj.CoreCompileInputs.cache
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

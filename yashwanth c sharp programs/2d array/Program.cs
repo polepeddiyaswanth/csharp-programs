@@ -64,7 +64,7 @@ namespace _2d_array
                         
                             for (j = 0; j < n2; j++)
                        
-                                sum = sum + array[i,j];
+                                sum += array[i,j];
                         {
                             Console.Write("\nSum of All Elements in Matrix = {0}", sum);
                         }
