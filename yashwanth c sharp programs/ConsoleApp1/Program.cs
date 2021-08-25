@@ -1,13 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace consoleapp1
-{
-    class Program
-    {
         public class Vehicle
         {
            public string COMPANYNAME;
@@ -20,7 +12,15 @@ namespace consoleapp1
            public string CAPACITYOFFUELTANK;
                 public void Vehicletype()
             {
-            }
+            Console.Write("company name:"+ COMPANYNAME);
+            Console.Write("vehicle name:" + VEHICLENAME);
+            Console.Write("color:" + COLOR);
+            Console.Write("engine cc:" + ENGINECC);
+            Console.Write("fuel type:" + FUELTYPE);
+            Console.Write("vehicle price:" + VEHICLEPRICE);
+            Console.Write("vehicle mileage:" + VEHICLEMILEAGE);
+            Console.Write("capacity of fuel tank:" + CAPACITYOFFUELTANK);
+    }
         }
          public class Car : Vehicle
         {
@@ -29,41 +29,61 @@ namespace consoleapp1
            public string AIRBAGS;
            public string SEATINGCAPACITY;
            public string TYPEOFSTART;
+            
+              public void Cartype()
+                {
+                Console.Write("Car style:" + CARSTYLE);
+                Console.Write("Transmission type:" + TRANSMISSIONTYPE);
+                Console.Write("Airbags:" + AIRBAGS);
+                Console.Write("Seating Capacity:" + SEATINGCAPACITY);
+                Console.Write("Type Of Start:" + TYPEOFSTART);
+    }
            
-        }
+        } 
          public class Bike : Vehicle
         {
             public string BIKETYPE;
+            
+            public void Biketype()
+                {
+                    Console.Write("Bike Type:" + BIKETYPE);
+    }
         }
-         public static void Main()
-        {
-            Car yash = new Car();
-            yash.COMPANYNAME = "hyunadai";
-            yash.VEHICLENAME = "verna";
-            yash.COLOR = "black";
-            yash.CARSTYLE = "sedan";
-            yash.ENGINECC = "1497cc";
-            yash.FUELTYPE = "petrol";
-            yash.TYPEOFSTART = "button mode";
-            yash.TRANSMISSIONTYPE = "6 gear transmission";
-            yash.SEATINGCAPACITY = "5 seater";
-            yash.AIRBAGS = "6 airbags";
-            yash.VEHICLEPRICE = "₹17 lakh";
-            yash.VEHICLEMILEAGE = "25 Km/L";
-            yash.CAPACITYOFFUELTANK = "45 L";
-            yash.Vehicletype();
 
-            Bike yashw = new Bike();
-            yashw.COMPANYNAME = "yamaha";
-            yashw.VEHICLENAME = "FZ ver.3";
-            yashw.BIKETYPE = "sport bike";
-            yashw.COLOR = "blue";
-            yashw.ENGINECC = "150cc";
-            yashw.FUELTYPE = "petrol";
-            yashw.VEHICLEPRICE = "₹1 lakh";
-            yashw.VEHICLEMILEAGE = "50 Km/L";
-            yashw.CAPACITYOFFUELTANK = "13 L";
-            yashw.Vehicletype();
+          class Program
+          {
+        public static void Main()
+        {
+            Car verna = new Car();
+            verna.COMPANYNAME = "hyunadai\n";
+            verna.VEHICLENAME = "verna\n";
+            verna.COLOR = "black\n";
+            verna.CARSTYLE = "sedan\n";
+            verna.ENGINECC = "1497cc\n";
+            verna.FUELTYPE = "petrol\n";
+            verna.TYPEOFSTART = "button mode\n";
+            verna.TRANSMISSIONTYPE = "6 gear transmission\n";
+            verna.SEATINGCAPACITY = "5 seater\n";
+            verna.AIRBAGS = "6 airbags\n";
+            verna.VEHICLEPRICE = "₹17 lakh\n";
+            verna.VEHICLEMILEAGE = "25 Km/L\n";
+            verna.CAPACITYOFFUELTANK = "45 L\n";
+            verna.Vehicletype();
+            verna.Cartype();
+        Console.Write("********************************\n");
+            Bike yamaha = new Bike();
+            yamaha.COMPANYNAME = "yamaha\n";
+            yamaha.VEHICLENAME = "FZ ver.3\n";
+            yamaha.BIKETYPE = "sport bike\n";
+            yamaha.COLOR = "blue\n";
+            yamaha.ENGINECC = "150cc\n";
+            yamaha.FUELTYPE = "petrol\n";
+            yamaha.VEHICLEPRICE = "₹1 lakh\n";
+            yamaha.VEHICLEMILEAGE = "50 Km/L\n";
+            yamaha.CAPACITYOFFUELTANK = "13 L\n";
+            yamaha.Vehicletype();
+            yamaha.Biketype();
+            Console.ReadKey();
         }
     }
-}
+
