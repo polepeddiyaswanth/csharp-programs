@@ -10,7 +10,7 @@
            public string VEHICLEPRICE;
            public string VEHICLEMILEAGE;
            public string CAPACITYOFFUELTANK;
-                public void Vehicletype()
+           public void Vehicletype()
             {
             Console.Write("company name:"+ COMPANYNAME);
             Console.Write("vehicle name:" + VEHICLENAME);
