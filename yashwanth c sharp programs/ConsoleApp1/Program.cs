@@ -25,7 +25,7 @@
          public class Car : Vehicle
         {
            public string CARSTYLE;
-    public string TRANSMISSIONTYPE;
+           public string TRANSMISSIONTYPE;
            public string AIRBAGS;
            public string SEATINGCAPACITY;
            public string TYPEOFSTART;
