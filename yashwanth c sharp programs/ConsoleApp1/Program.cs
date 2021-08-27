@@ -7,7 +7,7 @@ namespace ConsoleApp1
         public static void Main()
         {
             Car verna = new Car();
-            verna.COMPANYNAME = "hyunadai\n";
+            verna.COMPANYNAME = "hyundai\n";
             verna.VEHICLENAME = "verna\n";
             verna.COLOR = "black\n";
             verna.CARSTYLE = "sedan\n";
