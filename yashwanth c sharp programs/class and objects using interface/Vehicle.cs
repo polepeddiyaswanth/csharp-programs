@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace class_and_objects_using_interface
 {
-    interface IVehicle
+    interface IVehicle:ITransport_type
     {
          void Vehicletype();
     }
