@@ -6,8 +6,11 @@ using System.Threading.Tasks;
 
 namespace class_and_objects_using_interface
 {
-    interface IVehicle:ITransport_type
+    public abstract class Vehicle : ITransport_type
     {
-         void Vehicletype();
+        public abstract void Transport();
+        
+        public abstract void Vehicletype();
+       
     }
 }

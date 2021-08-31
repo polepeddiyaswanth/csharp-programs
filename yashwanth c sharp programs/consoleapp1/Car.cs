@@ -6,8 +6,12 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Car:Vehicle
+    class Car : Vehicle
     {
+        public override void Vehiclehorn()
+        {
+         Console.Write("car horn:the car say clean clean");
+        }
         public string CARSTYLE;
         public string TRANSMISSIONTYPE;
         public string AIRBAGS;

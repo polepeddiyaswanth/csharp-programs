@@ -22,7 +22,8 @@ namespace ConsoleApp1
             verna.CAPACITYOFFUELTANK = "45 L\n";
             verna.Vehicletype();
             verna.Cartype();
-            Console.Write("********************************\n");
+            verna.Vehiclehorn();
+            Console.Write("\n********************************\n");
             Bike yamaha = new Bike();
             yamaha.COMPANYNAME = "yamaha\n";
             yamaha.VEHICLENAME = "FZ ver.3\n";
@@ -35,6 +36,7 @@ namespace ConsoleApp1
             yamaha.CAPACITYOFFUELTANK = "13 L\n";
             yamaha.Vehicletype();
             yamaha.Biketype();
+            yamaha.Vehiclehorn();
             Console.ReadKey();
         }
     }

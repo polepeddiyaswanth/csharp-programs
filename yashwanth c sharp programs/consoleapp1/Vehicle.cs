@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp1
 {
-    class Vehicle
+    public abstract class Vehicle
     {
         public string COMPANYNAME;
         public string VEHICLENAME;
@@ -16,6 +16,7 @@ namespace ConsoleApp1
         public string VEHICLEPRICE;
         public string VEHICLEMILEAGE;
         public string CAPACITYOFFUELTANK;
+        public abstract void Vehiclehorn();
         public void Vehicletype()
         {
             Console.Write("company name:" + COMPANYNAME);
