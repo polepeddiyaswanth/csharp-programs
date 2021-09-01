@@ -1,0 +1,7 @@
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\class and objects using interface\bin\Debug\class and objects using interface.exe.config
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\class and objects using interface\bin\Debug\class and objects using interface.exe
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\class and objects using interface\bin\Debug\class and objects using interface.pdb
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\class and objects using interface\obj\Debug\class and objects using interface.csproj.AssemblyReference.cache
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\class and objects using interface\obj\Debug\class and objects using interface.csproj.CoreCompileInputs.cache
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\class and objects using interface\obj\Debug\class and objects using interface.exe
+E:\yashwanth\yashwanth-csharp-programs\yashwanth c sharp programs\class and objects using interface\obj\Debug\class and objects using interface.pdb
